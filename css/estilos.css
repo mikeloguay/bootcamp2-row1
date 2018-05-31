@@ -15,11 +15,7 @@ body {
 .header {
     padding: 80px;
     text-align: center;
-<<<<<<< HEAD
     background: #f081d8;
-=======
-    background: #f3b5e6;
->>>>>>> master
     color: white;
 }
 
@@ -44,11 +40,7 @@ body {
 .navbar a {
     float: left;
     display: block;
-<<<<<<< HEAD
     color: red;
-=======
-    color: rgb(247, 247, 247);
->>>>>>> master
     text-align: center;
     padding: 14px 20px;
     text-decoration: none;
