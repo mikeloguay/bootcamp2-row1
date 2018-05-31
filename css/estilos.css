@@ -15,8 +15,14 @@ body {
 .header {
     padding: 80px;
     text-align: center;
+<<<<<<< Updated upstream
     background: #f081d8;
     color: white;
+=======
+    <<<<<<< HEAD background: #f081d8;
+    =======background: #f3b5e6;
+    >>>>>>>master color: white;
+>>>>>>> Stashed changes
 }
 
 
@@ -40,8 +46,14 @@ body {
 .navbar a {
     float: left;
     display: block;
+<<<<<<< Updated upstream
     color: red;
     text-align: center;
+=======
+    <<<<<<< HEAD color: red;
+    =======color: rgb(247, 247, 247);
+    >>>>>>>master text-align: center;
+>>>>>>> Stashed changes
     padding: 14px 20px;
     text-decoration: none;
 }
@@ -102,7 +114,7 @@ body {
 /* Fake image, just for this example */
 
 .fakeimg {
-    background-color: #aaa;
+    background-color: rgb(240, 178, 209);
     width: 100%;
     padding: 20px;
 }
@@ -113,7 +125,7 @@ body {
 .footer {
     padding: 10px;
     text-align: center;
-    background: rgb(230, 28, 129);
+    background: rgb(240, 178, 209);
 }
 
 
