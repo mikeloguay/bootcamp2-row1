@@ -1,4 +1,4 @@
-<style>* {
+* {
     box-sizing: border-box;
 }
 
@@ -7,7 +7,6 @@
 
 body {
     font-family: Arial;
-    margin: 0;
 }
 
 
@@ -16,7 +15,7 @@ body {
 .header {
     padding: 80px;
     text-align: center;
-    background: #ecd1e6;
+    background: #f3b5e6;
     color: white;
 }
 
@@ -32,7 +31,7 @@ body {
 
 .navbar {
     overflow: hidden;
-    background-color: #334564;
+    background-color: #334563;
 }
 
 
@@ -41,7 +40,7 @@ body {
 .navbar a {
     float: left;
     display: block;
-    color: white;
+    color: rgb(247, 247, 247);
     text-align: center;
     padding: 14px 20px;
     text-decoration: none;
@@ -135,5 +134,3 @@ body {
         width: 100%;
     }
 }
-
-</style>
